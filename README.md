@@ -7,3 +7,7 @@ Each department in the headquarters has at least nine hosts, the warehouse depar
  All the stores for this enterprise have at least Four computers (three for the cashier and one for the warehouse) and five smart devices to manage the stock in the store; these devices have a wireless feature.
 State A and State C connect via each through one router, and they connect to State B through 5 routers. 
 This enterprise uses Class A for the IPs and EGRP for the routing protocol.
+
+
+<img width="1990" alt="Enterprise project" src="https://github.com/AZ-007/Cisco-Packet-Tracer/assets/130417372/1493c24c-0536-440d-b388-be7efe9fe7a7">
+
